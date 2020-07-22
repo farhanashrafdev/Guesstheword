@@ -111,3 +111,4 @@ bool Game::checkwin() {
 void Game::resetchances() {
 	chances = 5;
 }
+ 
